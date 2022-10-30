@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Chananchida Srithongdee</h1>
 <h3 align="center">A computer engineering student from KMITL</h3>
 
-- 🌱 I’m currently learning **Data analytics and Front-end development**
 
-- 📬 How to reach me **srithongdeechananchida@gmail.com**
+
+
+- ✔️ What I have done:
+  * [Doodle Jump](https://github.com/chananchida-srithongdee/Project_games) , Game development project, using C with SFML.
+  * [Slave](https://drive.google.com/file/d/1u9cV9Xd3fm1jyfq5ecu35twOfF37s76A/view?usp=sharing), Game development project, using OOP in Java with JavaFX and FXML.
+  * [Nota](https://github.com/chananchida-srithongdee/NoteMe), Application development project, using Python with PyQT5.
+  * [CENote](https://github.com/chananchida-srithongdee/CENOTE), Web Application development project, using Python with Django, front-end, using HTML and CSS.
+
+- 🔥 What am I currently working on
+  * Hotel booking web application [Chandra Booking](https://github.com/chananchida-srithongdee/chandra-booking-webapp-frontend) front-end using React Redux, Tailwind and Material-UI
+  * Hotel managing web application [Chandra Managing](https://github.com/chananchida-srithongdee/chandra-management-webapp-frontend) front-end using React Redux, Tailwind and Material-UI
+- 🌱 I’m currently learning **Data analytics and Front-end development**
+- 😊 *my another github profile*:  [Parncncd]( https://github.com/Parncncd?tab=overview&from=2021-12-01&to=2021-12-31 )
+- 📬 Reach me through **srithongdeechananchida@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chananchida-srithongdee&show_icons=true&locale=en" alt="chananchida-srithongdee" /></p>
 
-- 😊 *my another github profile* https://github.com/Parncncd 
+
+
+
