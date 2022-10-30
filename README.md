@@ -14,7 +14,7 @@
   * Hotel booking web application [Chandra Booking](https://github.com/chananchida-srithongdee/chandra-booking-webapp-frontend) front-end using React Redux, Tailwind and Material-UI
   * Hotel managing web application [Chandra Managing](https://github.com/chananchida-srithongdee/chandra-management-webapp-frontend) front-end using React Redux, Tailwind and Material-UI
 - 🌱 I’m currently learning **Data analytics and Front-end development**
-- 😊 *my another github profile*:  [Parncncd]( https://github.com/Parncncd?tab=overview&from=2021-12-01&to=2021-12-31 )
+- 😊 *my another github profile*:  [Parncncd]( https://github.com/Parncncd?tab=overview&from=2021-12-01&to=2021-12-31 ) <*currently inactive*>
 - 📬 Reach me through **srithongdeechananchida@gmail.com**
 
 
