@@ -17,3 +17,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chananchida-srithongdee&show_icons=true&locale=en&layout=compact" alt="chananchida-srithongdee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chananchida-srithongdee&show_icons=true&locale=en" alt="chananchida-srithongdee" /></p>
+
+<p> *my another github profile*  <a href="https://github.com/Parncncd" target="_blank" rel="noreferrer"> <i class="fa-brands fa-github"></i></a></p> 
